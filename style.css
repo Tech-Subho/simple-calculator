@@ -1,0 +1,37 @@
+.row{
+    margin: 10px 5px;
+    
+}
+.button{
+    margin: 0px 3px;
+    border: 2px solid black;
+    padding: 10px 13.5px;
+    color: white;
+    background-color: rgb(11, 10, 10);
+    border-radius: 9px;
+}
+.container{
+    border: 2px solid black;
+    width: 15%;
+    padding: 10px 10px;
+    text-align: center;
+    background-color: rgb(40, 39, 39);
+    border-radius: 9px;
+}
+#screen{
+    border: 2px solid black;
+    padding: 11px 13.5px;
+    background-color: rgb(75, 74, 74);
+    margin: 5px 0px 0px 0px;
+    /* border-radius: 9px; */
+}
+/* #first_row{
+    padding: 5px 18px;
+} */
+#first_row .button{
+    padding: 10px 17.5px;
+    margin: 0px 3px;
+    /* justify-content: space-between; */
+    /* margin-right: 4px; */
+    
+}
